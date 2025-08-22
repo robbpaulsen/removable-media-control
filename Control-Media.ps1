@@ -1,11 +1,3 @@
-# removable-media-control
-
-## Credits to:
-## https://www.ninjaone.com/script-hub/set-removable-storage-access-powershell
-
-Este proyecto no es mio, vi el script en la pagina de `ninjaone.com` y me gusto, tal vez le haga algunas modificaciones, tal vez no, pero es un buen recurso para tener a la mano en cuestion de seguridad, el codigo completo esta en PowerShell abajo dejo todo lo que contiene:
-
-```pwsh
 #Requires -Version 2.0
 
 <#
@@ -232,4 +224,3 @@ end {
     
     
 }
-```
